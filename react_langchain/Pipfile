@@ -4,6 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+langchain = "*"
+langchain-google-genai = "*"
+black = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
